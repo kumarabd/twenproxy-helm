@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-03-04T23:30:22.383991-08:00"
+entries:
+  twenproxy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-04T23:32:53.292247-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b5aa2d23f604829a52445b988428996b71cdae8218643267fc8648264a2d1b5
+    name: twenproxy
+    type: application
+    urls:
+    - twenproxy-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-03-04T23:32:53.291311-08:00"
